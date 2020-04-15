@@ -3,5 +3,5 @@ My First Repository
 
 Hello everyone.
 
-I am the best!
+Life is great! Be the best you can be!
 
